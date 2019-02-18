@@ -1,20 +1,5 @@
-# Hello
+# Phoenix App in Google App Engine Flexible Environment
 
-To start your Phoenix server:
+## Overview
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Install Node.js dependencies with `cd assets && npm install`
-  * Start Phoenix endpoint with `mix phx.server`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: http://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix
+This was a proof-of-concept to ensure basic concepts of integrating Elixir Phoenix framework with Google's App Engine Flexible Environment and connecting to PostgreSQL databases. The guide I used can be found here: https://cloud.google.com/community/tutorials/elixir-phoenix-on-google-app-engine
